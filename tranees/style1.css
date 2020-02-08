@@ -1,0 +1,23 @@
+body{
+    background-color: powderblue;
+}
+
+table{
+    border: black;
+    background-attachment: fixed;
+    background-color:papayawhip;
+    table-layout:auto ;
+    text-align: center;
+}
+
+
+    input[type=text] {
+        width: 50%;
+        padding: 10px 2px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border: none;
+        color: white;
+      }
+  
+ 
